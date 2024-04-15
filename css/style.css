@@ -1,6 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FF5E14;
+    --primary: #099fdf;
+    /* --primary: #FF5E14; */
     --secondary: #5F656F;
     --light: #F5F5F5;
     --dark: #02245B;
@@ -698,4 +699,23 @@ h6,
 .copyright {
     color: #B0B9AE;
     border-top: 1px solid rgba(255, 255, 255, .1);
+}
+
+/*** TEam ***/
+.team-item{
+    
+
+}
+.image-container{
+    height: 400px; 
+    overflow: hidden;
+    border-radius: 10px;
+ 
+}
+
+/*** Project ***/
+.image-items-p{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
 }
