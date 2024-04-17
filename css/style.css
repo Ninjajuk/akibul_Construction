@@ -367,6 +367,7 @@ h6,
     position: relative;
     margin: 65px 0 25px 0;
     box-shadow: 0 0 45px rgba(0, 0, 0, .07);
+  
 }
 
 .service-item .service-img {
@@ -377,8 +378,8 @@ h6,
     top: -65px;
     left: 50%;
     transform: translateX(-50%);
-    background: #FFFFFF;
-    box-shadow: 0 0 45px rgba(0, 0, 0, .09);
+    /* background: #FFFFFF;
+    box-shadow: 0 0 45px rgba(0, 0, 0, .09); */
     z-index: 2;
 }
 
@@ -404,7 +405,7 @@ h6,
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: #FFFFFF;
+    /* background: #FFFFFF; */
     transition: .5s;
 }
 
